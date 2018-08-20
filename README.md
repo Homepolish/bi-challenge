@@ -33,6 +33,10 @@ avoid using any data analysis tools that require the purchase of a commercial
 license. If a commercial tool has a free version, then it is ok to use the free
 version.
 
+You should run `git clone https://github.com/Homepolish/bi-challenge.git` to
+clone this repository, and place your responses and supporting documents for
+each challenge in that challenge's directory.
+
 **Note** This challenge will require you to have Docker installed for parts 2 and 3.
 
 ## Submission
