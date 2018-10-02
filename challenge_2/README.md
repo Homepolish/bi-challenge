@@ -1,6 +1,9 @@
 # Challenge 2
 For this challenge, you will be accessing data from a PostgreSQL database. To
-get everything running, you will need Docker installed and from this directory
+get everything running, you will need Docker installed. The Docker instance will restore
+the `dump.sql` file, but you are welcome to restore and query this data in anyway you see fit.
+If you are using Windows Home, or need some advice on Docker for Windows, please see https://docs.bitnami.com/containers/how-to/install-docker-in-windows/.
+Once Docker is installed, from this directory
 run:
 1. `docker build --tag bi-test .`
 2. `docker run --name bi-test -p 5432:5432 --rm bi-test`
