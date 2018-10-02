@@ -1,7 +1,9 @@
 # Homepolish Business Intelligence Challenge
 ----
 
-This challenge is for candidates already involved in the Homepolish interview process. For current openings and to apply to an open position, visit our [jobs page](https://www.homepolish.com/jobs).
+This challenge is for candidates already involved in the Homepolish interview
+process. For current openings and to apply to an open position, visit our
+[jobs page](https://www.homepolish.com/jobs).
 
 ## Methodology
 

@@ -32,4 +32,4 @@ The point here is not to invest a lot of effort carrying out a thorough analysis
 but to identify an important insight that has been missed in these challenges
 and to provide that additional perspective.
 
-Generate a last report that summarizes your findings through these challenges.
+Create a report that summarizes your findings through these challenges.
